@@ -13,7 +13,7 @@ Um script Python simples para criar e buildar protótipos web rápidos com Boots
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/QuickWebPrototype.git
+   git clone https://github.com/marciolopesjr/QuickWebPrototype.git
    ```
 
 2. **Instale as dependências:**
@@ -62,15 +62,4 @@ Sinta-se à vontade para contribuir com o projeto! Abra um problema ou envie um 
 ### Licença
 
 Este projeto está licenciado sob a licença MIT.
-
-**Observações:**
-
-- Substitua `seu-usuario` no link do repositório pelo seu nome de usuário do GitHub.
-- Crie um arquivo chamado `requirements.txt` na raiz do projeto com o seguinte conteúdo:
-  ```
-  htmlmin
-  cssmin
-  jsmin
-  ```
-- Renomeie o arquivo do script para `QuickWebPrototype.py`.
 
